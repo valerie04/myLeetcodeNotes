@@ -10,6 +10,9 @@
 |---|---|---|
 |[19. 删除链表的倒数第n个节点](https://github.com/valerie04/myLeetcodeNotes/blob/main/LinkedList/19_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACn%E4%B8%AA%E8%8A%82%E7%82%B9.md)|🌟🌟|双指针|
 |[21. 合并有序链表](https://github.com/valerie04/myLeetcodeNotes/blob/main/LinkedList/21.%20%E5%90%88%E5%B9%B6%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)|🌟|模拟、递归|
+|[24. 两两交换链表中的节点](https://github.com/valerie04/myLeetcodeNotes/blob/main/LinkedList/24_%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)|🌟🌟|指针、模拟|
+|[21. 合并有序链表](https://github.com/valerie04/myLeetcodeNotes/blob/main/LinkedList/21.%20%E5%90%88%E5%B9%B6%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)|🌟|模拟|
+|[21. 合并有序链表](https://github.com/valerie04/myLeetcodeNotes/blob/main/LinkedList/21.%20%E5%90%88%E5%B9%B6%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)|🌟|模拟、递归|
 |[203. 移除链表元素](https://github.com/valerie04/myLeetcodeNotes/blob/main/LinkedList/203_%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md)|🌟|模拟|
 |[237. 删除链表中的节点](https://github.com/valerie04/myLeetcodeNotes/blob/main/LinkedList/237_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)|🌟🌟|脑筋急转弯|
 |[61. 旋转链表](https://github.com/valerie04/myLeetcodeNotes/blob/main/LinkedList/61_%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md)|🌟🌟|双指针、模拟、环（？）|
