@@ -23,3 +23,10 @@
 |题目|难度|知识点|
 |---|---|---|
 |[104. 二叉树的最大深度](https://github.com/valerie04/myLeetcodeNotes/blob/main/Tree/104_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md)|🌟|递归、BFS|
+
+## 单调栈
+
+# myLeetcodeNotes
+|题目|难度|知识点|
+|---|---|---|
+|[1019. 链表中的下一个更大节点](https://github.com/valerie04/myLeetcodeNotes/blob/main/Stack/1019_%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E8%8A%82%E7%82%B9.md)|🌟🌟|单调栈|
