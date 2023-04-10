@@ -26,7 +26,6 @@
 
 ## 单调栈
 
-# myLeetcodeNotes
 |题目|难度|知识点|
 |---|---|---|
 |[1019. 链表中的下一个更大节点](https://github.com/valerie04/myLeetcodeNotes/blob/main/Stack/1019_%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E8%8A%82%E7%82%B9.md)|🌟🌟|单调栈|
