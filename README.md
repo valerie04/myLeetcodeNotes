@@ -18,6 +18,7 @@
 |[237. 删除链表中的节点](https://github.com/valerie04/myLeetcodeNotes/blob/main/LinkedList/237_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)|🌟🌟|脑筋急转弯|
 |[445. 两数相加II](https://github.com/valerie04/myLeetcodeNotes/blob/main/LinkedList/445_%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0II.md)|🌟🌟|链表加法、栈|
 |[61. 旋转链表](https://github.com/valerie04/myLeetcodeNotes/blob/main/LinkedList/61_%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md)|🌟🌟|双指针、模拟、环（？）|
+|[86. 分隔链表](https://github.com/valerie04/myLeetcodeNotes/blob/main/LinkedList/86_%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md)|🌟🌟|模拟|
 
 ## 树
 
